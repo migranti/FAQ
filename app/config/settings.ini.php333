@@ -1,6 +1,9 @@
-;<?php return; ?>
+<?php
+
+return;
+?>
 [SQL]
 host = localhost
 user = root
-password = 
+password =123
 dbname = faq
