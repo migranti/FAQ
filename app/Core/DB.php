@@ -198,7 +198,7 @@ class DB
 
     private function exceptionLog($message, $sql = "")
     {
-        $exception = '  Unhandled Exception. <br />';
+        $exception = '  Neobrađeno... <br />';
         $exception .= $message;
         $exception .= $sql;
         if (!empty($sql)) {
