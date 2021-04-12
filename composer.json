@@ -1,0 +1,19 @@
+{
+    "name": "simic/1faq",
+    "description": "FAQ - Test Project",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dejan Simic",
+            "email": "dejan@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "": "app/"
+        }
+    }
+}
